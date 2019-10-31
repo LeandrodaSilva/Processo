@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_1-DqgNWxEemeraX6YwI7TQ" guid="_1-DqgNWxEemeraX6YwI7TQ">
+    <resourceDescriptors xmi:id="_1-E4oNWxEemeraX6YwI7TQ" id="_1-CcYNWxEemeraX6YwI7TQ" uri=""/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_1-CcYNWxEemeraX6YwI7TQ" name="new_plug-in" guid="_1-CcYNWxEemeraX6YwI7TQ">
+    <methodElementProperty xmi:id="_6kQZkNWxEemeraX6YwI7TQ" name="library_synFree" value="true"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

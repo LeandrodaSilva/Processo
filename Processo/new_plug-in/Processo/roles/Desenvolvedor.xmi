@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-l0egdhhkc9Bvw5hRrP2p3Q" name="Desenvolvedor,_A0_-MM94EembrcO1dRjMYQ" guid="-l0egdhhkc9Bvw5hRrP2p3Q" changeDate="2019-09-25T21:50:56.638-0300" version="2.0">
+  <mainDescription>&lt;p>&#xD;
+    Responsável por implementar(codificar) as funcionalidades propostas nos requisitos&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    programador, codificador, desenvolvedor&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:RoleDescription>

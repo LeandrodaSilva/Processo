@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IfcLRkomGAw9K0QD9q5sRw" name=",_BNp1UPa1EemZdbvcZ_mlpQ" guid="-IfcLRkomGAw9K0QD9q5sRw" changeDate="2019-10-24T20:29:54.210-0300">
+  <mainDescription>Essa atividade é feita toda a parte de levantamento do requisito. Dentro desse levantamento tem a&amp;nbsp;subtarefas&#xD;
+como&amp;nbsp;a coleta dos dados, tratamento dos dados e entendimento desses&amp;nbsp;mesmos para que não haja duplicidade ou erros&#xD;
+de interpretação.</mainDescription>
+  <sections xmi:id="_q-s_gPa3EemZdbvcZ_mlpQ" name="Analisar dados obtidos da reunião" guid="_q-s_gPa3EemZdbvcZ_mlpQ"/>
+  <sections xmi:id="_tJBiAPa3EemZdbvcZ_mlpQ" name="Mapear as necessidades do projeto" guid="_tJBiAPa3EemZdbvcZ_mlpQ"/>
+  <sections xmi:id="_vQSwgPa3EemZdbvcZ_mlpQ" name="Encaixar dados com necessidades" guid="_vQSwgPa3EemZdbvcZ_mlpQ"/>
+</org.eclipse.epf.uma:TaskDescription>

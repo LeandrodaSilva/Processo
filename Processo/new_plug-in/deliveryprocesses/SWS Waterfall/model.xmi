@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_msjq8c9REemTu5OuPTqBYA" guid="_msjq8c9REemTu5OuPTqBYA">
+    <resourceDescriptors xmi:id="_msjq8s9REemTu5OuPTqBYA" id="-VJeArqeIfUHMlCVTFnP-Fw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_mrq6IM9REemTu5OuPTqBYA" name="SWS Waterfall" guid="_mrq6IM9REemTu5OuPTqBYA">
+    <methodElementProperty xmi:id="_mrq6Is9REemTu5OuPTqBYA" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_noy0QM9SEemTu5OuPTqBYA" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_p7kIIM9SEemTu5OuPTqBYA" name="requisitos" guid="_p7kIIM9SEemTu5OuPTqBYA">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_p7kIIc9SEemTu5OuPTqBYA" name="requisitos" guid="_p7kIIc9SEemTu5OuPTqBYA" presentationName="Requisitos" superActivities="_mrq6Ic9REemTu5OuPTqBYA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_195RkM9SEemTu5OuPTqBYA" name="projeto" guid="_195RkM9SEemTu5OuPTqBYA">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_195Rkc9SEemTu5OuPTqBYA" name="projeto" guid="_195Rkc9SEemTu5OuPTqBYA" presentationName="Projeto" superActivities="_mrq6Ic9REemTu5OuPTqBYA" breakdownElements="_Bp1pkM96EembrcO1dRjMYQ _CWFrkM96EembrcO1dRjMYQ _C81igM96EembrcO1dRjMYQ"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Bp1pkM96EembrcO1dRjMYQ" name="Analisar Requisitos" guid="_Bp1pkM96EembrcO1dRjMYQ" presentationName="Analisar Requisitos" superActivities="_195Rkc9SEemTu5OuPTqBYA">
+        <methodElementProperty xmi:id="_Bp1pmc96EembrcO1dRjMYQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ovX8kM23Eem7t7KyGJ6eQA#_xEjkQM93EembrcO1dRjMYQ"/>
+        <selectedSteps href="uma://-SEK-IXGfoudp1m2f63Kg9w#_1wPTcM97EembrcO1dRjMYQ"/>
+        <selectedSteps href="uma://-SEK-IXGfoudp1m2f63Kg9w#_jzYaYM99EembrcO1dRjMYQ"/>
+        <selectedSteps href="uma://-SEK-IXGfoudp1m2f63Kg9w#_l32MgM99EembrcO1dRjMYQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_CWFrkM96EembrcO1dRjMYQ" name="Documentar Requisitos" guid="_CWFrkM96EembrcO1dRjMYQ" presentationName="Documentar Requisitos" superActivities="_195Rkc9SEemTu5OuPTqBYA">
+        <methodElementProperty xmi:id="_CWiXgM96EembrcO1dRjMYQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ovX8kM23Eem7t7KyGJ6eQA#_0JPdQM93EembrcO1dRjMYQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_C81igM96EembrcO1dRjMYQ" name="Revisar Requisitos" guid="_C81igM96EembrcO1dRjMYQ" presentationName="Revisar Requisitos" briefDescription="Caso os requisitos não sejam validados, os requisitos serão revisados pela equipe responsável." superActivities="_195Rkc9SEemTu5OuPTqBYA">
+        <methodElementProperty xmi:id="_C9RnYM96EembrcO1dRjMYQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_ovX8kM23Eem7t7KyGJ6eQA#_yl2-8M93EembrcO1dRjMYQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_DHmdgM95EembrcO1dRjMYQ" name="Desenvolvimento" guid="_DHmdgM95EembrcO1dRjMYQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ElnToM95EembrcO1dRjMYQ" name="Desenvolvimento" guid="_ElnToM95EembrcO1dRjMYQ">
+        <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_ElnToc95EembrcO1dRjMYQ" name="Desenvolvimento" guid="_ElnToc95EembrcO1dRjMYQ" presentationName="Desenvolvimento" superActivities="_DHmdgc95EembrcO1dRjMYQ" isRepeatable="true" breakdownElements="_9tuZUM95EembrcO1dRjMYQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_9tuZUM95EembrcO1dRjMYQ" name="Desenvolver Funcionalidades" guid="_9tuZUM95EembrcO1dRjMYQ" presentationName="Desenvolver Funcionalidades" superActivities="_ElnToc95EembrcO1dRjMYQ">
+          <methodElementProperty xmi:id="_9t4KUM95EembrcO1dRjMYQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_ovX8kM23Eem7t7KyGJ6eQA#__iwTMM93EembrcO1dRjMYQ"/>
+        </processElements>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_DHmdgc95EembrcO1dRjMYQ" name="Desenvolvimento" guid="_DHmdgc95EembrcO1dRjMYQ" presentationName="Desenvolvimento" superActivities="_mrq6Ic9REemTu5OuPTqBYA" breakdownElements="_ElnToc95EembrcO1dRjMYQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_MsNAQM95EembrcO1dRjMYQ" name="Teste" guid="_MsNAQM95EembrcO1dRjMYQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Nil1sM95EembrcO1dRjMYQ" name="Teste" guid="_Nil1sM95EembrcO1dRjMYQ">
+        <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_Nil1sc95EembrcO1dRjMYQ" name="Teste" guid="_Nil1sc95EembrcO1dRjMYQ" presentationName="Teste" superActivities="_MsNAQc95EembrcO1dRjMYQ" isRepeatable="true" breakdownElements="_0O_1EM95EembrcO1dRjMYQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_0O_1EM95EembrcO1dRjMYQ" name="Testar Funcionalidades" guid="_0O_1EM95EembrcO1dRjMYQ" presentationName="Testar Funcionalidades" superActivities="_Nil1sc95EembrcO1dRjMYQ">
+          <methodElementProperty xmi:id="_0QCW4M95EembrcO1dRjMYQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_ovX8kM23Eem7t7KyGJ6eQA#_I-gb8M94EembrcO1dRjMYQ"/>
+        </processElements>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_MsNAQc95EembrcO1dRjMYQ" name="Teste" guid="_MsNAQc95EembrcO1dRjMYQ" presentationName="Teste" superActivities="_mrq6Ic9REemTu5OuPTqBYA" breakdownElements="_Nil1sc95EembrcO1dRjMYQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_PVrHcM96EembrcO1dRjMYQ" name="manutenção" guid="_PVrHcM96EembrcO1dRjMYQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_PVrHcc96EembrcO1dRjMYQ" name="manutenção" guid="_PVrHcc96EembrcO1dRjMYQ" presentationName="Manutenção" superActivities="_mrq6Ic9REemTu5OuPTqBYA"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_mrq6Ic9REemTu5OuPTqBYA" name="SWS Waterfall" guid="_mrq6Ic9REemTu5OuPTqBYA" presentationName="New Process" breakdownElements="_p7kIIc9SEemTu5OuPTqBYA _195Rkc9SEemTu5OuPTqBYA _DHmdgc95EembrcO1dRjMYQ _MsNAQc95EembrcO1dRjMYQ _PVrHcc96EembrcO1dRjMYQ">
+      <presentation xmi:id="-VJeArqeIfUHMlCVTFnP-Fw" href="uma://-VJeArqeIfUHMlCVTFnP-Fw#-VJeArqeIfUHMlCVTFnP-Fw"/>
+      <defaultContext href="uma://_xC4jYOU7EemJze4f_O65yQ#_m2IjAM23Eem7t7KyGJ6eQA"/>
+      <validContext href="uma://_xC4jYOU7EemJze4f_O65yQ#_m2IjAM23Eem7t7KyGJ6eQA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

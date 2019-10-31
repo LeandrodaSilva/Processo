@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-VJeArqeIfUHMlCVTFnP-Fw" name="New Process,_mrq6Ic9REemTu5OuPTqBYA" guid="-VJeArqeIfUHMlCVTFnP-Fw">
+    <mainDescription>&lt;img alt=&quot;&quot; src=&quot;resources/diagram (1).png&quot; width=&quot;430&quot; height=&quot;600&quot; /></mainDescription>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-S1KesTxdnhOnD4UOeW073g" name="Desenvolvedor,_-xYx0d_4EemlAKaEWfU0vA" guid="-S1KesTxdnhOnD4UOeW073g">
+    <keyConsiderations>&lt;p>&#xD;
+    programador, codificador, desenvolvedor&#xD;
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    Responsável por implementar(codificar) as funcionalidades propostas nos requisitos&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_aPjnA5Ep-XyxUn6xuP-rw" name="Reuniao,_5jM4oOCbEemqEOvMqzZUNg" guid="-_aPjnA5Ep-XyxUn6xuP-rw">
+    <refinedDescription>&lt;p>&#xD;
+    Nessa atividade é feita e estabelecida o contato com o cliente por meio de reuniões. Nas reuniões são feitas as&#xD;
+    atividades de levantamento de requisitos.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZrVmiFASf6DgALaFEd5pXA" name="analista_de_negocios,_yljxQfa5EemZdbvcZ_mlpQ" guid="-ZrVmiFASf6DgALaFEd5pXA">
+    <refinedDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ajudar na definição do projeto;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Reunir requisitos de unidades de negócios ou usuários;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Documentar requisitos técnicos e comerciais;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Verificar se os produtos do projeto atendem aos requisitos;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Testar soluções para validar o projeto&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>
