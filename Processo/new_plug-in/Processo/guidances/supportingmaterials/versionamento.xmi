@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bKlAXhxnB5_InednCv8pCg" name="new_supporting_material,_CCdS8PwyEemI4Ke5i3YfMQ" guid="-bKlAXhxnB5_InednCv8pCg" changeDate="2019-10-31T19:59:21.057-0300">
+  <mainDescription>&lt;p>&#xD;
+    Utilizar o Semantic Versioning &lt;a href=&quot;https://semver.org/&quot; target=&quot;_blank&quot;>2.0.0&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

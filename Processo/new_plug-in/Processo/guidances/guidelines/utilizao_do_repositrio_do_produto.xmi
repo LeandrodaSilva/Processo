@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Lasd7dYlIYymieoGwwUZpg" name="new_guideline,_MXzrQPw0EemI4Ke5i3YfMQ" guid="-Lasd7dYlIYymieoGwwUZpg" changeDate="2019-10-31T20:15:34.183-0300">
+  <mainDescription>&lt;p>&#xD;
+    Versionamento com Git e Github&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Descrição&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;b id=&quot;docs-internal-guid-34ce6eb4-7fff-0107-643e-4d0a688e6181&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        O sistema de controle de versões é responsável por armazenar as diversas versões dos itens de configuração e&#xD;
+        assegurar que as modificações sobre esses itens ocorram de forma segura e controlada. Desta forma, está no&#xD;
+        âmbito desse sistema a definição de políticas de controle de acesso (autenticação, autorização e&#xD;
+        auditoria), políticas de controle de concorrência, por exemplo, pessimista, otimista, híbrida etc., e&#xD;
+        procedimentos que viabilizem a definição de níveis de controle diferenciados para os itens de configuração,&#xD;
+        por exemplo, pré e pós baseline.(MPS.BR cap. 7 item 7.3.1).&lt;/span>&lt;/b>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;b id=&quot;docs-internal-guid-8cf32165-7fff-065e-f08c-5966466a083e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        O repositório está dividido em 2 branches sendo elas a &lt;a&#xD;
+        href=&quot;https://github.com/LeandrodaSilva/produto/tree/master&quot; target=&quot;_blank&quot;>master&lt;/a>&lt;/span> &lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        &amp;nbsp;e &lt;a href=&quot;https://github.com/LeandrodaSilva/produto/tree/dev&quot; target=&quot;_blank&quot;>dev&lt;/a>.&lt;/span> &lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        &amp;nbsp;A primeira versão produto&lt;/span> &lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        &amp;nbsp;presente no repositório é a 1.0.0&lt;/span> &lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        . O repositório possui um&amp;nbsp;quadro&lt;/span> &lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        Kanban onde todas as alterações do produto&amp;nbsp; que serão realizadas viram uma Issue&lt;/span> &lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        contendo o(s) responsável(eis), tags&lt;/span> &lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        &amp;nbsp;para nível de prioridade (1. Regular, 2. Medium, 3. Hight) entre outras, possui o projeto&lt;/span> &lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        &amp;nbsp;associado assim como a milestone&lt;/span> &lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        &amp;nbsp;ao qual aquela Issue pertence sendo ela nomeada de acordo com o surgimento de pedidos do cliente, a primeira&#xD;
+        milestone é a&amp;nbsp;Pedido T5&lt;/span> &lt;span&#xD;
+        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        &amp;nbsp;que tem a data de lançamento em 31/10/2019 ao qual irá gerar uma nova versão do produto de acordo com as&#xD;
+        modificações feitas na branch dev e mesclada com a branch prod para homologação com o cliente e se aprovada será&#xD;
+        mesclada com a branch master tbm gerando uma nova versão com todas as alterações aceitas e homologadas.&lt;/span>&lt;/b>&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 49.606pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

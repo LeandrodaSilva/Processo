@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MNOqomPj8YbC5-QirOK7ig" name="new_toolmentor,_c26pYPwxEemI4Ke5i3YfMQ" guid="-MNOqomPj8YbC5-QirOK7ig" changeDate="2019-10-31T20:09:00.187-0300">
+  <mainDescription>&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Abrir o site URL: &lt;a href=&quot;https://github.com/&quot;>&lt;u>&lt;font color=&quot;#0066cc&quot;>https://github.com/&lt;/font>&lt;/u>&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Clicar no botão 'Sign up':&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 600px; WIDTH: 1183px&quot; alt=&quot;&quot; src=&quot;resources/git-inicio.PNG&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    3. Preencher formulário:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 600px; WIDTH: 1193px&quot; alt=&quot;&quot; src=&quot;resources/2.PNG&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4. Finalizar criação da conta.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
