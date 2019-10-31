@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Rv2hPdiM5i4w3orLEazz2Q" name="Desenvolver Funcionalidades,__iwTMM93EembrcO1dRjMYQ" guid="-Rv2hPdiM5i4w3orLEazz2Q"/>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Rv2hPdiM5i4w3orLEazz2Q" name="Desenvolver Funcionalidades,__iwTMM93EembrcO1dRjMYQ" guid="-Rv2hPdiM5i4w3orLEazz2Q">
+  <sections xmi:id="_pZuLAPwjEemFVfzV8L-j7w" name="Desenvolvimento Backend" guid="_pZuLAPwjEemFVfzV8L-j7w">
+    <sectionDescription>Etapa de desenvolvimento da parte do código no qual o cliente não irá ver, tal como o banco de dados e as funcionalidades.</sectionDescription>
+  </sections>
+  <sections xmi:id="_RZCjwPwkEemFVfzV8L-j7w" name="Desenvolvimento Frontend" guid="_RZCjwPwkEemFVfzV8L-j7w">
+    <sectionDescription>Desenvolvimento das interfaces, protótipos de tela, o código que o cliente irá ver.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

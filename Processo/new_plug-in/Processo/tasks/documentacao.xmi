@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PHMDgRTNqeXcLx9me_Vxrw" name=",_HeBAIPa1EemZdbvcZ_mlpQ" guid="-PHMDgRTNqeXcLx9me_Vxrw" changeDate="2019-10-24T20:34:46.608-0300">
-  <mainDescription>&lt;p>&#xD;
-    Essa atividade tem como objetivo documentar todo o processo até o momento, desde da reunião com o cliente até a&#xD;
-    validação dos requisitos.&#xD;
-&lt;/p></mainDescription>
-  <sections xmi:id="_SGmdgPa3EemZdbvcZ_mlpQ" name="Analisar requisitos" guid="_SGmdgPa3EemZdbvcZ_mlpQ"/>
-  <sections xmi:id="_VgWAgPa3EemZdbvcZ_mlpQ" name="Documentar requisitos" guid="_VgWAgPa3EemZdbvcZ_mlpQ"/>
-</org.eclipse.epf.uma:TaskDescription>

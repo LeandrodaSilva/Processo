@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UUi1dLxaCD8mK-G3lLeJUw" name=",_QqwE8PwlEemFVfzV8L-j7w" guid="-UUi1dLxaCD8mK-G3lLeJUw">
+  <sections xmi:id="_dnC8QPwlEemFVfzV8L-j7w" name="Planejamento" guid="_dnC8QPwlEemFVfzV8L-j7w">
+    <sectionDescription>Nessa etapa consiste em montar um plano/roteiro de testes para ser executado.</sectionDescription>
+  </sections>
+  <sections xmi:id="_oFsscPwlEemFVfzV8L-j7w" name="Executar testes" guid="_oFsscPwlEemFVfzV8L-j7w">
+    <sectionDescription>Nessa etapa é feita as execuções de cada plano de teste no projeto visando encontrar possíveis erros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_tiMxYPwlEemFVfzV8L-j7w" name="Relatório" guid="_tiMxYPwlEemFVfzV8L-j7w">
+    <sectionDescription>Nessa etapa consite em elaborar/montar um relatório técnico sobre todos os resultados obtidos dos testes realizados no&#xD;
+sistema.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

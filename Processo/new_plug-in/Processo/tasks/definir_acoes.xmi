@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DF0tRcF2CthxYO6t1ZgsVg" name="definir_acoes,_GL1NQPa6EemZdbvcZ_mlpQ" guid="-DF0tRcF2CthxYO6t1ZgsVg">
+  <sections xmi:id="_EgAjMPwhEemFVfzV8L-j7w" name="Definição das etapas" guid="_EgAjMPwhEemFVfzV8L-j7w">
+    <sectionDescription>&lt;p>&#xD;
+    Fase dividida em duas etapas: Primeira etapa é a parte técnica e a segunda parte é a documentação do projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Na primeira etapa, definir: A linguagem de programação que será utiizada juntamente com a IDE, o sistema de banco de&#xD;
+    dados, infraestrutura que será usada (máquinas, local) e a separação de responsabilidades/tarefas de cada membro do&#xD;
+    time&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Na segunda etapa, definir: EAP (Estrutura analítica do Projeto), TAP (Termo de abertura do Projeto), cronograma do&#xD;
+    projeto.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>
