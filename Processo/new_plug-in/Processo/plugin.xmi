@@ -9,6 +9,7 @@
     <resourceDescriptors xmi:id="_eGNfkPa2EemZdbvcZ_mlpQ" id="-IfcLRkomGAw9K0QD9q5sRw" uri="tasks/levantamento_de_requisito.xmi"/>
     <resourceDescriptors xmi:id="_4w2WMPa2EemZdbvcZ_mlpQ" id="-PHMDgRTNqeXcLx9me_Vxrw" uri="tasks/documentacao.xmi"/>
     <resourceDescriptors xmi:id="_Sr87YPa5EemZdbvcZ_mlpQ" id="-EitH4uMb33r2hrg7YsOI-w" uri="roles/analista_de_negocios.xmi"/>
+    <resourceDescriptors xmi:id="_IRH-QPt6Eem0IMVXL1ETfA" id="-s5FeIUaCn3qUKrL1A8xRvw" uri="customcategories/tools%202.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_ovX8kM23Eem7t7KyGJ6eQA" name="Processo" guid="_ovX8kM23Eem7t7KyGJ6eQA">
     <methodElementProperty xmi:id="_ovX8o823Eem7t7KyGJ6eQA" name="plugin_synFree" value="true"/>
@@ -71,7 +72,14 @@
             <methodElementProperty xmi:id="_NhROcNW4EemeraX6YwI7TQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ovX8l823Eem7t7KyGJ6eQA" name="Tools" guid="_ovX8l823Eem7t7KyGJ6eQA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ovX8l823Eem7t7KyGJ6eQA" name="Tools" guid="_ovX8l823Eem7t7KyGJ6eQA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_FySrsPt3Eem0IMVXL1ETfA" name="git" guid="_FySrsPt3Eem0IMVXL1ETfA" presentationName="Git" toolMentors="_vaBP4Pt7Eem0IMVXL1ETfA">
+            <methodElementProperty xmi:id="_HgbBcPt3Eem0IMVXL1ETfA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_LrBZoPt3Eem0IMVXL1ETfA" name="github" guid="_LrBZoPt3Eem0IMVXL1ETfA" presentationName="Github">
+            <methodElementProperty xmi:id="_M5R8gPt3Eem0IMVXL1ETfA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ovX8mM23Eem7t7KyGJ6eQA" name="StandardCategories" guid="_ovX8mM23Eem7t7KyGJ6eQA"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ovX8mc23Eem7t7KyGJ6eQA" name="CustomCategories" guid="_ovX8mc23Eem7t7KyGJ6eQA">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ovX8ms23Eem7t7KyGJ6eQA" name="Hidden" guid="_ovX8ms23Eem7t7KyGJ6eQA">
@@ -83,6 +91,7 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_37s-wNW4EemeraX6YwI7TQ"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_-qSWoNW4EemeraX6YwI7TQ"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_EA1kkNW5EemeraX6YwI7TQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_Hd7mwPt6Eem0IMVXL1ETfA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_37s-wNW4EemeraX6YwI7TQ" name="roles" guid="_37s-wNW4EemeraX6YwI7TQ" presentationName="Roles" categorizedElements="_A0_-MM94EembrcO1dRjMYQ _Gom7kM94EembrcO1dRjMYQ">
             <methodElementProperty xmi:id="_It0RENW5EemeraX6YwI7TQ" name="me_edited" value="true"/>
@@ -92,6 +101,11 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_EA1kkNW5EemeraX6YwI7TQ" name="activities" guid="_EA1kkNW5EemeraX6YwI7TQ" presentationName="Activities" categorizedElements="__iwTMM93EembrcO1dRjMYQ _fDVlEM94EembrcO1dRjMYQ _KK8Z4M94EembrcO1dRjMYQ _ME-doM94EembrcO1dRjMYQ _PjvDgM94EembrcO1dRjMYQ _I-gb8M94EembrcO1dRjMYQ">
             <methodElementProperty xmi:id="_ItpR8NW5EemeraX6YwI7TQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Hd7mwPt6Eem0IMVXL1ETfA" name="tools" guid="_Hd7mwPt6Eem0IMVXL1ETfA" presentationName="Tools" shapeicon="customcategories/resources/Basic_Dashboard_UI_fix_option_machine_tools-512.png" categorizedElements="_FySrsPt3Eem0IMVXL1ETfA _LrBZoPt3Eem0IMVXL1ETfA">
+            <methodElementProperty xmi:id="_HeMsgPt6Eem0IMVXL1ETfA" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_HeMsgft6Eem0IMVXL1ETfA" name="PUBLISH_CATEGORY" value="false"/>
+            <presentation xmi:id="-s5FeIUaCn3qUKrL1A8xRvw" href="uma://-s5FeIUaCn3qUKrL1A8xRvw#-s5FeIUaCn3qUKrL1A8xRvw"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -164,7 +178,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_I-gb8M94EembrcO1dRjMYQ" name="Testar Funcionalidades" guid="_I-gb8M94EembrcO1dRjMYQ" performedBy="_Gom7kM94EembrcO1dRjMYQ" mandatoryInput="_26JX8NW0EemeraX6YwI7TQ" output="_8KX7cNW0EemeraX6YwI7TQ">
             <methodElementProperty xmi:id="_I__psM94EembrcO1dRjMYQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KK8Z4M94EembrcO1dRjMYQ" name="Montar Relatório Técnico" guid="_KK8Z4M94EembrcO1dRjMYQ" performedBy="_Gom7kM94EembrcO1dRjMYQ" mandatoryInput="_QvyLINWzEemeraX6YwI7TQ" output="_8KX7cNW0EemeraX6YwI7TQ" additionallyPerformedBy="_A0_-MM94EembrcO1dRjMYQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KK8Z4M94EembrcO1dRjMYQ" name="Montar Relatório Técnico" guid="_KK8Z4M94EembrcO1dRjMYQ" performedBy="_Gom7kM94EembrcO1dRjMYQ" mandatoryInput="_QvyLINWzEemeraX6YwI7TQ" output="_8KX7cNW0EemeraX6YwI7TQ" additionallyPerformedBy="_A0_-MM94EembrcO1dRjMYQ" toolMentors="_vaBP4Pt7Eem0IMVXL1ETfA">
             <methodElementProperty xmi:id="_KMvJoM94EembrcO1dRjMYQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ME-doM94EembrcO1dRjMYQ" name="Revisar Funcionalidades" guid="_ME-doM94EembrcO1dRjMYQ" performedBy="_Gom7kM94EembrcO1dRjMYQ" output="_8KX7cNW0EemeraX6YwI7TQ">
@@ -173,12 +187,13 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_PjvDgM94EembrcO1dRjMYQ" name="Revisar Sistema" guid="_PjvDgM94EembrcO1dRjMYQ" performedBy="_Gom7kM94EembrcO1dRjMYQ" mandatoryInput="_26JX8NW0EemeraX6YwI7TQ" output="_8KX7cNW0EemeraX6YwI7TQ">
             <methodElementProperty xmi:id="_Plq9MM94EembrcO1dRjMYQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_26JX8NW0EemeraX6YwI7TQ" name="plano_de_teste" guid="_26JX8NW0EemeraX6YwI7TQ" presentationName="Plano de teste">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_26JX8NW0EemeraX6YwI7TQ" name="plano_de_teste" guid="_26JX8NW0EemeraX6YwI7TQ" presentationName="Plano de teste" toolMentors="_vaBP4Pt7Eem0IMVXL1ETfA">
             <methodElementProperty xmi:id="_55Ue0NW0EemeraX6YwI7TQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8KX7cNW0EemeraX6YwI7TQ" name="relatrio_dos_testes_executados" guid="_8KX7cNW0EemeraX6YwI7TQ" presentationName="Relatório dos testes executados">
             <methodElementProperty xmi:id="_-uYJQNW0EemeraX6YwI7TQ" name="me_edited" value="true"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_vaBP4Pt7Eem0IMVXL1ETfA" name="new_toolmentor" guid="_vaBP4Pt7Eem0IMVXL1ETfA" presentationName="New Toolmentor"/>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SUvykM94EembrcO1dRjMYQ" name="Entrega" guid="_SUvykM94EembrcO1dRjMYQ">
           <methodElementProperty xmi:id="_SUvykc94EembrcO1dRjMYQ" name="pkg_loadCheck" value="true"/>
